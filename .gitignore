@@ -1,1 +1,4 @@
 .idea
+*.log
+result_tmp
+__pycache__
